@@ -1,0 +1,9 @@
+# Data Directory
+
+This directory contains the dataset files.
+
+## Expected Files:
+- `online_retail_II.xlsx` - The main dataset file
+
+## Note:
+The actual data files are ignored by git due to their size. Please ensure you have the required dataset files in this directory before running the notebooks.
